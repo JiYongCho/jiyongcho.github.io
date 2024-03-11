@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: You
-middle_name: R.
+middle_name: J.
 last_name: Cho
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -309,8 +309,8 @@ scholar:
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
-  altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
-  dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
+  altmetric: falsee # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
+  dimensions: false # Dimensions badge (https://badge.dimensions.ai/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
