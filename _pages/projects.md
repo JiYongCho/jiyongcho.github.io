@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [Large Language Models for Experts, Behavioral Change Interventions, Measuring Heterogeneity between Users]
 horizontal: false
 ---
 
