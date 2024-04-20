@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: a Ph.D. candidate in Information Science at Cornell University
 
 profile:
   align: right
@@ -16,8 +16,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I research `user engagement` in the online space, primarily a venue related to learning and knowledge acquisition, such as online courses, communities, and learning technologies.  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My work aims to:
+`Understand` users' online behaviors and motivational factors for engaging in certain behaviors, including cultural backgrounds, perceptions, beliefs, and mindsets.
+`Design` interventions to help users continue to engage in their desired behaviors online and achieve goals.
+`Create` tools for learning and sharing knowledge online.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My ultimate goal is to revolutionize how we learn and share knowledge online, making the process more engaging and effective for all users.
+
+I am currently a Ph.D. resident at LG AI Research. In the Advanced Machine Learning lab, I work on building large language models that are trustworthy and inspiring to experts or knowledge workers.
