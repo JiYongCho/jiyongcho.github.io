@@ -20,9 +20,9 @@ I research `user engagement` in the online space, especially a venue used for le
 
 My work is three-fold:
 (1)`understand` users' online behaviors and motivational factors for engaging in certain behaviors, including cultural backgrounds, perceptions, beliefs, and mindsets.
-(2)`design` interventions to help users continue to engage in their desired behaviors online and achieve goals, and
+(2)`design` interventions to help users keep engaging in their desired behaviors online and achieve goals, and
 (3)`build` tools for learning and sharing knowledge online.
 
 My ultimate goal is to revolutionize how we learn and share knowledge online, making the process more engaging and effective for all users.
 
-I am currently a Ph.D. resident at LG AI Research. In the Advanced Machine Learning lab, I work on building large language models that are trustworthy and inspiring to experts or knowledge workers. I curate expert data, evaluate modules of a model, develop evaluation metrics aligned with human values, and conduct user studies with prototypes.  
+I am currently a Ph.D. resident at LG AI Research. In the Advanced Machine Learning lab, I work on `human-centered model evaluation` as part of building large language models that are trustworthy and inspiring to experts or knowledge workers. I curate expert data, evaluate modules of a model, develop evaluation metrics aligned with human values, and conduct user studies with prototypes of llm-powered applications.
