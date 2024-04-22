@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visual & Textual Cues in Ads
+title: Effective Cues in Ads for Course Enrollment
 description: an advertisement study on Facebook
 img: assets/img/12.jpg
 importance: 1
