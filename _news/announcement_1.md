@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presenting work about planning tactics in self-directed learning at the ACM LAK 2024 🍡🌸
+Presenting work about online learners' planning tactics at the ACM LAK 2024 🍡🌸
