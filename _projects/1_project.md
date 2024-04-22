@@ -2,7 +2,7 @@
 layout: page
 title: Effective Cues in Ads
 description: an advertisement study on Facebook to examine effective visual and textual cues for course enrollment.
-img: assets/img/kenny-eliason-I6wCDYW6ij8-unsplash_resize.png
+img: assets/img/kenny-eliason-I6wCDYW6ij8-unsplash.png
 importance: 1
 category: Behavioral Change Interventions
 related_publications: false
