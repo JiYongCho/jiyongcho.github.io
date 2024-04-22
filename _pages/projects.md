@@ -5,7 +5,7 @@ permalink: /projects/
 description: Here is a list of finished research projects that are published, under review, or in preparation for submission. Please check my CV for ongoing projects and work experiences.
 nav: true
 nav_order: 1
-display_categories: [Large Language Models for Experts, Measuring Heterogeneity between Users, Behavioral Change Interventions]
+display_categories: [Large Language Models for Experts, Behavioral Change Interventions, Measuring Heterogeneity between Users]
 horizontal: false
 ---
 

@@ -6,3 +6,5 @@ img: assets/img/daniel-minarik-V_TGhMojA9k-unsplash.jpg
 importance: 2
 category: Measuring Heterogeneity between Users
 ---
+
+A manuscript is under review (Psychological Science)

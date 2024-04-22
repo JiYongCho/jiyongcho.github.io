@@ -6,3 +6,5 @@ img: assets/img/brett-jordan-0FytazjHhxs-unsplash.jpg
 importance: 1
 category: Measuring Heterogeneity between Users
 ---
+
+A manuscript is under review (npj Science of Learning)
