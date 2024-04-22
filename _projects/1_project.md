@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Effective Cues in Ads for Course Enrollment
-description: an advertisement study on Facebook
+title: Effective Cues in Ads
+description: an advertisement study on Facebook to examine effective visual and textual cues for course enrollment.
 img: assets/img/add_ex.png
 importance: 1
 category: Behavioral Change Interventions
