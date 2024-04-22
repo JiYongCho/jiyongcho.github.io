@@ -20,7 +20,7 @@ I research `user engagement` in the online space, especially a venue used for le
 
 My work is three-fold:
 (1)`understand` users' online behaviors and motivational factors for engaging in certain behaviors, including cultural backgrounds, perceptions, beliefs, and mindsets.
-(2)`design` interventions to help users keep engaging in their desired behaviors online and achieve goals, and
+(2)`design` interventions to help users keep engaging in desired behaviors online and achieve their goals, and
 (3)`build` tools for learning and sharing knowledge online.
 
 My ultimate goal is to revolutionize how we learn and share knowledge online, making the process more engaging and effective for all users.
