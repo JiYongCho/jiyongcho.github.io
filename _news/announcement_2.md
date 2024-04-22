@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper about co-creating Q&A articles with LLMs is conditionally accepted for the ACM DIS 2024 🙌
+Our paper about co-creating Q&A articles with LLMs is conditionally accepted for the ACM DIS 2024 🙌
