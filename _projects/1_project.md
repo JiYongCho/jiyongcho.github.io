@@ -5,10 +5,10 @@ description: an advertisement study on Facebook
 img: assets/img/12.jpg
 importance: 1
 category: Behavioral Change Interventions
-related_publications: true
+related_publications: false
 ---
 
-We ran a series of studies collaborating with the marketing team from <a href="https://ecornell.cornell.edu/">eCornell</a>>, an online course provider, to examine what types of ads encourage women to enroll in STEM courses 
+We ran a series of studies collaborating with the marketing team from <a href="https://ecornell.cornell.edu/">eCornell</a>, an online course provider, to examine what types of ads encourage women to enroll in STEM courses 
 
 In Study 1, we conducted an online field experiment study and found that a skill-oriented message compared to a career-oriented message increased younger women's (age 18-29) enrollment in web programming. 
 
