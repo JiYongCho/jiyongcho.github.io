@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Here is a list of finished research projects that are published, under review, or in preparation for submission. Please check my CV for ongoing projects and work experiences.
+description: Here is a list of finished research projects that are published, under review, or in preparation for submission. Please check my resume [CV](/assets/pdf/resume_jiyongcho_042324.pdf) for ongoing projects and work experiences.
 nav: true
 nav_order: 1
 display_categories: [Large Language Models for Experts, Behavioral Change Interventions, Measuring Heterogeneity between Users]
