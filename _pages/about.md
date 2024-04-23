@@ -25,4 +25,4 @@ My work is three-fold:
 
 My ultimate goal is to revolutionize how we learn and share knowledge online, making the process more engaging and effective for all users.
 
-I am currently a Ph.D. resident at LG AI Research. In the Advanced Machine Learning lab, I work on `human-centered model evaluation` as part of building large language models that are trustworthy and inspiring to experts or knowledge workers. I curate expert data, evaluate modules of a model, develop evaluation metrics aligned with human values, and conduct user studies with prototypes of llm-powered applications.
+I am currently a Ph.D. resident at LG AI Research. In the Advanced Machine Learning lab, I work on `human-centered model evaluation` as part of building large language models (LLMs) that are trustworthy and inspiring to experts or knowledge workers. I curate expert data, evaluate modules of a model, develop evaluation metrics aligned with human values, and conduct user studies with prototypes of LLM-powered applications.
